@@ -1,0 +1,17 @@
+.columnL{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    
+    border: none;
+    outline: 2px solid #43c775;
+    background-color: #84cfa1;
+}
+button:hover{
+    outline: 2px solid black;
+}
+h1{
+    color: white;
+}
